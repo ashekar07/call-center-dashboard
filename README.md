@@ -4,7 +4,7 @@ An interactive Excel dashboard built to analyze call center performance using Pi
 
 ## Dashboard Preview
 
-![Dashboard](Call Center DashBoard.png)
+![Dashboard](DashBoard.png)
 
 ## Features
 - Interactive slicers
