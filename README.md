@@ -23,3 +23,6 @@ An interactive Excel dashboard built to analyze call center performance using Pi
 
 ## Dataset
 Call center performance data for 2023.
+
+## Author
+A. Shekar | Excel Dashboard Project | 2026
